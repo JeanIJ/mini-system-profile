@@ -1,8 +1,17 @@
-# Mini System Profiler
+# Mini System Profile
 
-Week 1 Python assignment for CodeYou SecOps pathway.
+Week 1 Python system profile report using `platform` and `os`.
 
-This script asks for analyst name and department, then prints system information including hostname, operating system, and current user using the platform and os modules.
+## Description
+Prints basic host information such as hostname, OS, and user.
 
-## How to run
-python system_profile.py
+## Technologies
+- Python 3 (`platform`, `os`)
+
+## Usage
+```bash
+python3 system.profile.py
+```
+
+## Status
+Completed Week 1 learning exercise.
